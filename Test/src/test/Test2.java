@@ -3,6 +3,7 @@ package test;
 public class Test2 {
 	public static void main(String[] args) {
 		
-		//是大连空教室
+		//澶ц繛鏁欏笀
+		//鏂借拏鍒╁厠鍓┚椹剁殑寮楀叞鍏嬪氨
 	}
 }
